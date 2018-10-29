@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Private 2 Bed",
+    "images": ["https://placehold.it/500", "https://placehold.it/500"]
+  },
+  {
+    "id": "2",
+    "name": "Private 4 Bed",
+    "images": ["https://placehold.it/500", "https://placehold.it/500"]
+  },
+  {
+    "id": "2",
+    "name": "Private 6 Bed",
+    "images": ["https://placehold.it/500", "https://placehold.it/500"]
+  }
+]
